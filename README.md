@@ -24,7 +24,7 @@ Installation
 (If you don't want to install it there is a github link in the about section on the side in github.)
 Clone the repository:
 1. Copy code
-2. git clone <GitHub URL>
+2. git clone 
 3. Open index.html in your browser to view the website locally.
 
 Usage

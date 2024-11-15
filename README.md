@@ -24,8 +24,9 @@ Installation
 (If you don't want to install it there is a github link in the about section on the side in github.)
 Clone the repository:
 1. Copy code
-2. git clone 
+2. git clone https://github.com/JustxJiang/Volleyball-Info-Website.git
 3. Open index.html in your browser to view the website locally.
+(Or just download the zip file.)
 
 Usage
 Feel free to browse through the different sections to learn about volleyball basics and enjoy the clean layout and design.
